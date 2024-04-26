@@ -11,7 +11,7 @@
 
 <body>
     <div class="p_title">
-        <h3>Bypass ATM Access </h3>
+        <h3>Bypass ATM Access </h>
     </div>
     <div class="block">
         <span id="b_title"> Blocked the card <br></span>
